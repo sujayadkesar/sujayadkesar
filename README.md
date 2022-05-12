@@ -33,9 +33,7 @@
 
 
 
-<p> 
-      
-      <img src="https://user-images.githubusercontent.com/95465072/168149728-e829f1cf-0073-48f8-a90a-eb11124fd585.png" alt="IBM" width="80"           height="80"/> </a> <a href="https://www.credly.com/badges/ec86d362-c7a2-4aab-aad4-a6d4cfee38a5?source=linked_in_profile"> 
+        <a href="https://www.credly.com/badges/ec86d362-c7a2-4aab-aad4-a6d4cfee38a5?source=linked_in_profile"><img src="https://user-images.githubusercontent.com/95465072/168149728-e829f1cf-0073-48f8-a90a-eb11124fd585.png" alt="IBM" width="80"           height="80"/> </a>
   
       <img src="https://user-images.githubusercontent.com/95465072/168151707-7941bcdb-1f82-4c53-a9ad-bdcd96f3cb85.png" alt="Cisco" width="80"          height="80"/> </a> <a href="https://portal.certiport.com/Portal/Pages/CredentialVerification.aspx"> 
   
@@ -43,7 +41,6 @@
   
       <img src="https://user-images.githubusercontent.com/95465072/168153649-a6cb714c-d71d-4b55-a08a-753319d88d93.png" alt="IBM" width="80"           height="80"/> </a> <a href="https://www.credly.com/badges/49e80c35-8fb3-40cc-a458-2cd57e74379d/print"> 
   
-  </p> 
 
 
 
