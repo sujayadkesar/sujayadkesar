@@ -31,11 +31,20 @@
 <h3 align="left">Skills and more:</h3>
 <p float="left">
 
-    <img width="80" height="80" src="https://user-images.githubusercontent.com/95465072/168149728-e829f1cf-0073-48f8-a90a-eb11124fd585.png"                alt="IBM">
+    <img width="80" height="80" src="https://user-images.githubusercontent.com/95465072/168149728-e829f1cf-0073-48f8-a90a-eb11124fd585.png"                alt="IBM" />
   
-     <img width="80" height="80" src="https://user-images.githubusercontent.com/95465072/168151707-7941bcdb-1f82-4c53-a9ad-bdcd96f3cb85.png"                alt="Cisco">
+     <img width="80" height="80" src="https://user-images.githubusercontent.com/95465072/168151707-7941bcdb-1f82-4c53-a9ad-bdcd96f3cb85.png"                alt="Cisco" />
   
-     <img width="80" height="80" src="https://user-images.githubusercontent.com/95465072/168151543-a35d39bb-ea07-4e9d-b574-b62c1bbe7adc.png"                alt="Pearson">
-  
+     <img width="80" height="80" src="https://user-images.githubusercontent.com/95465072/168151543-a35d39bb-ea07-4e9d-b574-b62c1bbe7adc.png"                alt="Pearson" />
   
 </p>
+
+
+
+
+
+
+
+
+
+
