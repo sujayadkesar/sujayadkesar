@@ -2,7 +2,7 @@
 <h3 align="center">A Seasoned Web application penetration tester. Thursty to learn and explore new technologies and share the knowledge back to the community. Currently I am pursuing my b tech in cybersecurity and cyberforensics</h3>
 
 
-<img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cepro.com%2Fsecurity%2Fbasic-cybersecurity-terms-definitions-integrators-should-know%2F&psig=AOvVaw2nsiEldNAj-J6zcK41TYS-&ust=1652467432358000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCIDYhYvP2vcCFQAAAAAdAAAAABAD">
+<img align="center" src="https://www.cepro.com/wp-content/uploads/2021/12/cybersecurity-image-1000x500-1.jpeg">
 
 
 
