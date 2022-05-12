@@ -33,7 +33,7 @@
 
 
 
-<p float="left"> 
+<p> 
       <a href="https://www.credly.com/badges/49e80c35-8fb3-40cc-a458-2cd57e74379d/print" > 
 
     
