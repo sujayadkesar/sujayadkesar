@@ -28,6 +28,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sujayadkesar&show_icons=true&locale=en&layout=compact" alt="sujayadkesar" /></p>
 
-
+<h3 align="left">Skills and more:</h3>
+<img width="60" height="60" src="https://user-images.githubusercontent.com/95465072/168149728-e829f1cf-0073-48f8-a90a-eb11124fd585.png" alt="Cyber threat intelligence by IBM">
 
 
