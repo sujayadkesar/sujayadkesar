@@ -45,7 +45,7 @@
   
       <img src="https://user-images.githubusercontent.com/95465072/168153649-a6cb714c-d71d-4b55-a08a-753319d88d93.png" alt="IBM" width="80"           height="80"/> </a> <a href="#"> 
   
-  </a> </p>
+  </a> </p> 
 
 
 
