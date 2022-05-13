@@ -17,10 +17,11 @@
 <p align="left">
 <a href="https://linkedin.com/in/sujay_adkesar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sujay_adkesar" height="30" width="40" /></a>
 <a href="https://instagram.com/sujay_adkesar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sujay_adkesar" height="30" width="40" /></a>
+ <a href="https://twitter.com/SUJAY_ADKESAR" target="blank"> <img align="center src="https://user-images.githubusercontent.com/95465072/168199482-98fee01c-4766-42d6-91a3-401c120d0a74.png" alt="sujay_adkesar" height="30" width="40" /></a>
 </p>
 
 
- <a href="https://twitter.com/SUJAY_ADKESAR" target="blank"> <img align="center src="" alt="sujay_adkesar" height="30" width="40" /></a>
+ 
 
 
 
