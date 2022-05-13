@@ -19,6 +19,11 @@
 <a href="https://instagram.com/sujay_adkesar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sujay_adkesar" height="30" width="40" /></a>
 </p>
 
+
+ <a href="https://twitter.com/SUJAY_ADKESAR" target="blank"> <img align="center src="" alt="sujay_adkesar" height="30" width="40" /></a>
+
+
+
 <br/> <br/> 
 
 <h3 align="left">Languages and Tools:</h3>
