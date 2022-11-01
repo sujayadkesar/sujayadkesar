@@ -218,7 +218,7 @@
 
 <!-- udemy -->
 
-<a  href="https://www.udemy.com/certificate/UC-48698a47-6e63-411f-8993-fe99a95b6190/">  <img  class="img" src="https://user-images.githubusercontent.com/95465072/199308696-68a7fdbc-2052-48ce-9084-eeb25deb11c4.jpg">  </a>
+<a  href="https://www.udemy.com/certificate/UC-48698a47-6e63-411f-8993-fe99a95b6190/">  <img width="300px" height="300px"  class="img" src="https://user-images.githubusercontent.com/95465072/199308696-68a7fdbc-2052-48ce-9084-eeb25deb11c4.jpg">  </a>
 
 <div  class="ripple-cont"></div>
 
