@@ -9,7 +9,6 @@
 
 
 
-
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sujayadkesar" alt="sujayadkesar" /></a> </p>
 
 <br/> <br/> <br/> <br/> <br/>
@@ -17,7 +16,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sujay_adkesar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sujay_adkesar" height="30" width="40" /></a>
-<a href="https://instagram.com/sujay_adkesar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sujay_adkesar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sujay_adkesar" target="blank"><img align="center" src="https://user-images.githubusercontent.com/95465072/199298950-3882322d-7527-47d0-ac6b-b81a0ed1a1aa.png" alt="sujay_adkesar" height="45" width="50" /></a>
+<a href="https://wa.me/918762406259?text=01101000%2001101001%20%20%F0%9F%91%8B,%20I'm%20SUJAY%20ADKESAR%0AI%20got%20your%20number%20from%20your%20site.Can%20we%20have%20%20a%20small%20conversation%20now!" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sujay_adkesar" height="30" width="40" /></a>
  <a href="https://twitter.com/SUJAY_ADKESAR" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sujay_adkesar" height="30" width="40" /></a>
 </p>
 
@@ -35,27 +35,211 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sujayadkesar&show_icons=true&locale=en&layout=compact" alt="sujayadkesar" /></p>
 
-<h3 align="left">Skills and more:</h3>
 
+<h1>Skills & More!</h1>
 
+<div  class="container">
 
+<div  class="row">
 
-<p align="left"> <a href="https://www.credly.com/badges/49e80c35-8fb3-40cc-a458-2cd57e74379d/print" > 
+<div  class="col-md-4">
+
+<div  class="blog-card blog-card-blog">
+
+<div  class="blog-card-image">
+
+<a  href="https://www.credly.com/badges/49e80c35-8fb3-40cc-a458-2cd57e74379d/print">  <img  class="img" src="https://user-images.githubusercontent.com/95465072/199310028-7c04a5b4-5834-43b0-85f8-57a7c46885cc.png">  </a>
+
+<div  class="ripple-cont"></div>
+
+</div>
+
+<div  class="blog-table">
+
+<h6  class="blog-category blog-text-success">
+
+<i  class="far fa-newspaper"></i>Coursera</h6>
+
+<h4  class="blog-card-caption">
+
+<a  href="https://www.credly.com/badges/49e80c35-8fb3-40cc-a458-2cd57e74379d/print">IBM</a>
+
+</h4>
+
+<p  class="blog-card-description">Cyber Threat Intelligence</p>
+
+</div>
+
+</div>
+
+</div>
+
+<div  class="col-md-4">
+
+<div  class="blog-card blog-card-blog">
+
+<div  class="blog-card-image">
+
+<a  href="https://www.credly.com/badges/ec86d362-c7a2-4aab-aad4-a6d4cfee38a5?source=linked_in_profile">  <img  class="img" src="https://user-images.githubusercontent.com/95465072/168151707-7941bcdb-1f82-4c53-a9ad-bdcd96f3cb85.png">  </a>
+
+<div  class="ripple-cont"></div>
+
+</div>
+
+<div  class="blog-table">
+
+<h6  class="blog-category blog-text-success">
+
+<i  class="far fa-newspaper"></i>NETCAD</h6>
+
+<h4  class="blog-card-caption">
+
+<a  href="https://www.credly.com/badges/ec86d362-c7a2-4aab-aad4-a6d4cfee38a5?source=linked_in_profile">CISCO</a>
+
+</h4>
+
+<p  class="blog-card-description">Networking Essentials</p>
+
+</div>
+
+</div>
+
+</div>
+
+<div  class="col-md-4">
+
+<div  class="blog-card blog-card-blog">
+
+<div  class="blog-card-image">
+
+<a  href="https://portal.certiport.com/Portal/Pages/CredentialVerification.aspx">  <img  class="img" src="https://user-images.githubusercontent.com/95465072/199309729-269b52b9-33c9-499b-9752-f7120fa2302e.png">  </a>
+
+<div  class="ripple-cont"></div>
+
+<!-- https://user-images.githubusercontent.com/95465072/168151543-a35d39bb-ea07-4e9d-b574-b62c1bbe7adc.png -->
+
+</div>
+
+<div  class="blog-table">
+
+<h6  class="blog-category blog-text-success">
+
+<i  class="far fa-newspaper"></i>Pearson</h6>
+
+<h4  class="blog-card-caption">
+
+<a  href="https://portal.certiport.com/Portal/Pages/CredentialVerification.aspx">PCEP</a>
+
+</h4>
+
+<p  class="blog-card-description">Python Certified Entrylevel Programmer</p>
+
+</div>
+
+</div>
+
+</div>
+
   
-  <img src="https://user-images.githubusercontent.com/95465072/168149728-e829f1cf-0073-48f8-a90a-eb11124fd585.png" alt="IBM" width="80"           height="80"/> </a> <a href="https://www.credly.com/badges/ec86d362-c7a2-4aab-aad4-a6d4cfee38a5?source=linked_in_profile"> 
-  
-<img src="https://user-images.githubusercontent.com/95465072/168151707-7941bcdb-1f82-4c53-a9ad-bdcd96f3cb85.png" alt="Cisco" width="80"           height="80"/> </a> <a href="https://portal.certiport.com/Portal/Pages/CredentialVerification.aspx"> 
-  
-  <img src="https://user-images.githubusercontent.com/95465072/168151543-a35d39bb-ea07-4e9d-b574-b62c1bbe7adc.png" alt="IBM" width="80"           height="80"/> </a> <a href="https://user-images.githubusercontent.com/95465072/168153649-a6cb714c-d71d-4b55-a08a-753319d88d93.png"> 
- 
- <img  alt="Networksecurity & Database-vulnerability" width="80" height="80" src="https://user-images.githubusercontent.com/95465072/175977998-e86e79f3-2c62-43b5-8c1b-f77e0bb9ad9b.png" /></a><a href="https://coursera.org/share/87ffb3c222bc769d4fc885d7010d1f00">
-  
-  <img src="https://user-images.githubusercontent.com/95465072/168153649-a6cb714c-d71d-4b55-a08a-753319d88d93.png" alt="IBM" width="80"           height="80"/> </a> <a href="#"> 
+
+<div  class="col-md-4">
+
+<div  class="blog-card blog-card-blog">
+
+<div  class="blog-card-image">
+
+<a  href="https://coursera.org/share/87ffb3c222bc769d4fc885d7010d1f00">  <img  class="img" src="https://user-images.githubusercontent.com/95465072/175977998-e86e79f3-2c62-43b5-8c1b-f77e0bb9ad9b.png">  </a>
+
+<div  class="ripple-cont"></div>
+
+</div>
+
+<div  class="blog-table">
+
+<h6  class="blog-category blog-text-success">
+
+<i  class="far fa-newspaper"></i>Coursera</h6>
+
+<h4  class="blog-card-caption">
+
+<a  href="https://coursera.org/share/87ffb3c222bc769d4fc885d7010d1f00">IBM</a>
+
+</h4>
+
+<p  class="blog-card-description">Network Security & Database Vulnerabilities</p>
+
+</div>
+
+</div>
+
+</div>
+
   
 
+<div  class="col-md-4">
 
-    
+<div  class="blog-card blog-card-blog">
+
+<div  class="blog-card-image">
+
+<a  href="#">  <img  class="img" src="https://user-images.githubusercontent.com/95465072/168153649-a6cb714c-d71d-4b55-a08a-753319d88d93.png">  </a>
+
+<div  class="ripple-cont"></div>
+
+</div>
+
+<div  class="blog-table">
+
+<h6  class="blog-category blog-text-success">
+
+<i  class="far fa-newspaper"></i>Goldman Sachs</h6>
+
+<h4  class="blog-card-caption">
+
+<a  href="#">Forage</a>
+
+</h4>
+
+<p  class="blog-card-description">Crack Leaked password database</p>
+
+</div>
+
+</div>
+
+</div>
+
   
-  </a> </p>
 
+<div  class="col-md-4">
 
+<div  class="blog-card blog-card-blog">
+
+<div  class="blog-card-image">
+
+<!-- udemy -->
+
+<a  href="https://www.udemy.com/certificate/UC-48698a47-6e63-411f-8993-fe99a95b6190/">  <img  class="img" src="https://user-images.githubusercontent.com/95465072/199308696-68a7fdbc-2052-48ce-9084-eeb25deb11c4.jpg">  </a>
+
+<div  class="ripple-cont"></div>
+
+</div>
+
+<div  class="blog-table">
+
+<h6  class="blog-category blog-text-success">
+
+<i  class="far fa-newspaper"></i>Coult steel</h6>
+
+<h4  class="blog-card-caption">
+
+<a  href="https://www.udemy.com/certificate/UC-48698a47-6e63-411f-8993-fe99a95b6190/">Udemy</a>
+
+</h4>
+
+<p  class="blog-card-description">Web development</p>
+
+</div>
+
+</div>
+
+</div>
