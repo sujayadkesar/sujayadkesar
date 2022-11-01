@@ -36,7 +36,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sujayadkesar&show_icons=true&locale=en&layout=compact" alt="sujayadkesar" /></p>
 
 
-
+<!-- 
 
 |![Cyber Threat Intelligence By Coursera](https://user-images.githubusercontent.com/95465072/199310028-7c04a5b4-5834-43b0-85f8-57a7c46885cc.png)  | ![Networking Essentials By CISCO](https://user-images.githubusercontent.com/95465072/199316755-443ba3c9-3496-46a8-be39-1d21a7da5e30.png) |
 |--|--|
@@ -46,3 +46,4 @@
 |--|--|
 
 
+-->
