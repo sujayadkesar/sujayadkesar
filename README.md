@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sujay_adkesar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sujay_adkesar" height="30" width="40" /></a>
-<a href="https://wa.me/918762406259?text=01101000%2001101001%20%20%F0%9F%91%8B,%20I'm%20SUJAY%20ADKESAR%0AI%20got%20your%20number%20from%20your%20site.Can%20we%20have%20%20a%20small%20conversation%20now!" target="blank"><img align="center" src="https://user-images.githubusercontent.com/95465072/199298950-3882322d-7527-47d0-ac6b-b81a0ed1a1aa.png" alt="sujay_adkesar" height="45" width="50" /></a>
+<a href="https://wa.me/918762406259?text=01101000%2001101001%20%20%F0%9F%91%8B%2C%20SUJAY%20I%20got%20your%20number%20from%20your%20site%20.%20can%20we%20have%20a%20small%20conversation%20now%20%3F%20" target="blank"><img align="center" src="https://user-images.githubusercontent.com/95465072/199298950-3882322d-7527-47d0-ac6b-b81a0ed1a1aa.png" alt="sujay_adkesar" height="45" width="50" /></a>
 <a href="https://www.instagram.com/sujay_adkesar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sujay_adkesar" height="30" width="40" /></a>
  <a href="https://twitter.com/SUJAY_ADKESAR" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sujay_adkesar" height="30" width="40" /></a>
 </p>
