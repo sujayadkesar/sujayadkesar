@@ -78,13 +78,14 @@
 
 <br /><br /><br /><br /><br /><br />
 
+
+
+<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sujayadkesar&row=2&column=3" alt="sujayadkesar" /></a> </p> -->
+
 <p align="center"><img align="center"
 <a href="https://www.github.com/sujayadkesar" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/sujayadkesar?logo=github&style=for-the-badge&color=a855f7&labelColor=000000" /></a>
 </p>
-
-<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sujayadkesar&row=2&column=3" alt="sujayadkesar" /></a> </p> -->
-
 
 <br><br>
 <div style="display: flex; justify-content: space-between; align-items: center;">
