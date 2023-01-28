@@ -15,12 +15,8 @@
 <br/> <br/> <br/>
 
 <!-- <img align="center" src="https://www.cepro.com/wp-content/uploads/2021/12/cybersecurity-image-1000x500-1.jpeg"> -->
-<br/> <br/> <br/> 
 
 
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" style="padding-left:40px;" src="https://github-readme-streak-stats.herokuapp.com/?user=sujayadkesar&row=2&column=3" alt="sujayadkesar"/></p>
-
-<br/> <br/> <br/> 
 
 
 <h3 align="center">Connect with me:</h3>
@@ -48,7 +44,44 @@
 &nbsp;
 &nbsp;
 &nbsp;
+### Badges🚀
 
+<b>⚙️My GitHub Stats:</b>
+
+<p align="center"><img align="center"
+<a href="http://www.github.com/sujayadkesar"><img src="https://github-readme-stats.vercel.app/api?username=sujayadkesar&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=10b981&bg_color=000000&hide_border=true&show_icons=true" alt="sujayadkesar's GitHub stats" /></a>
+</p>
+
+<p align="center"><img align="center"
+<a href="http://www.github.com/sujayadkesar"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sujayadkesar&stroke=ffffff&background=000000&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+</p>
+
+<p align="center"><img align="center"
+<a href="http://www.github.com/sujayadkesar"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=sujayadkesar&bg_color=000000&color=ffffff&line=10b981&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=Sagar's%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+</p>
+
+<p align="center"><img align="center"
+<a href="https://github.com/sujayadkesar" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujayadkesar&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=10b981&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+</p>
+
+<b>🧑‍💻Top Repositories</b>
+
+<div width="100%" align="center">
+<a href="https://github.com/sujayadkesar/reverse-shell-generator" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sujayadkesar&repo=reverse-shell-generator&title_color=0891b2&text_color=ffffff&icon_color=a855f7&bg_color=000000&hide_border=true&locale=en" /></a>
+
+<a href="https://github.com/sujayadkesar/Auto-recon" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sujayadkesar&repo=Auto-recon&title_color=0891b2&text_color=ffffff&icon_color=a855f7&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+<div width="100%" align="center">
+<a href="https://github.com/sujayadkesar/pentesting-toolkit-on-docker" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sujayadkesar&repo=pentesting-toolkit-on-docker&title_color=0891b2&text_color=ffffff&icon_color=a855f7&bg_color=000000&hide_border=true&locale=en" /></a>
+
+<a href="https://github.com/sujayadkesar/sujayadkesar.github.io" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sujayadkesar&repo=sujayadkesar.github.io&title_color=0891b2&text_color=ffffff&icon_color=a855f7&bg_color=000000&hide_border=true&locale=en" /></a></div>
+
+<br /><br /><br /><br /><br /><br />
+
+<p align="center"><img align="center"
+<a href="https://www.github.com/sujayadkesar" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/sujayadkesar?logo=github&style=for-the-badge&color=a855f7&labelColor=000000" /></a>
+</p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sujayadkesar&row=2&column=3" alt="sujayadkesar" /></a> </p>
 <br><br>
