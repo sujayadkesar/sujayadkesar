@@ -7,7 +7,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sujayadkesar&label=Profile%20views&color=0e75b6&style=flat" alt="sujayadkesar" /> </p>
 
-👨‍💻 All of my projects are available at [https://sujayadkesar.live](https://sujayadkesar.live)
+👨‍💻 Here's My portfolio site [https://sujayadkesar.live](https://sujayadkesar.live) & [terminal-styled](https://sujayadkesar.github.io/terminal_portfolio/)
 
 📝 I regularly write CTF walkthroughs on [https://sujayadkesar.github.io](https://sujayadkesar.github.io)
 
