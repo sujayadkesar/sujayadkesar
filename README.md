@@ -54,17 +54,15 @@
 <br><br>
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <a href="https://tryhackme.com/p/SUJAYADKESAR">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/SUJAYADKESAR.png" alt="tryhackme-badge" style="width: 475px; height:100px; border-radius: 10px;">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/SUJAYADKESAR.png" alt="tryhackme-badge" style="width: 425px; height:100px; border-radius: 10px;">
   </a>
 
   <a href="https://app.hackthebox.com/profile/979961">
-    <img src="https://www.hackthebox.eu/badge/image/979961" width="475px" height="100" alt="Hack The Box">
+    <img src="https://www.hackthebox.eu/badge/image/979961" width="425px" height="100" alt="Hack The Box">
   </a>
 </div>
 
 <!-- 
-
-
 Here's an example of a GitHub action workflow that uses the GitHub API to update the README.md file with the title and link of the latest blog post from your personal website:
 
 bash
