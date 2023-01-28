@@ -19,9 +19,8 @@
 
 
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sujayadkesar&row=2&column=3" alt="sujayadkesar" /></p>
 
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sujayadkesar&row=2&column=3" alt="sujayadkesar" /></a> </p>
 
 <br/> <br/> <br/> 
 
@@ -47,9 +46,10 @@
 
 &nbsp;
 &nbsp;
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sujayadkesar&row=2&column=3" alt="sujayadkesar" /></p>
 
 
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sujayadkesar&row=2&column=3" alt="sujayadkesar" /></a> </p>
 <!-- 
 
 
