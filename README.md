@@ -21,6 +21,10 @@
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" style="padding-left:40px;" src="https://github-readme-streak-stats.herokuapp.com/?user=sujayadkesar&row=2&column=3" alt="sujayadkesar"/></p>
 
 <br/> <br/> <br/> 
+<a href="https://tryhackme.com/p/SUJAYADKESAR">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/SUJAYADKESAR.png" alt="tryhackme-badge" style="width: 200px; border-radius: 20px;">
+</a>
+<br><br>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
