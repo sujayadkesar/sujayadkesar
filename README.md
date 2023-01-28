@@ -1,8 +1,10 @@
 <h1 align="center">01101000 01101001 There 👋, I'm SUJAY ADKESAR</h1>
+<img align="right" width="400px" src="https://user-images.githubusercontent.com/95465072/215252020-1a5c052f-2cd3-4ca9-ba72-b8bb5a1eb9de.gif">
+
 <h3 align="center">A Seasoned Web application penetration tester. Thursty to learn and explore new technologies and share the knowledge back to the community. Currently I am pursuing my b tech in cybersecurity and cyberforensics</h3>
 <br/> <br/> <br/> <br/> <br/>
 
-<img align="center" src="https://www.cepro.com/wp-content/uploads/2021/12/cybersecurity-image-1000x500-1.jpeg">
+<!-- <img align="center" src="https://www.cepro.com/wp-content/uploads/2021/12/cybersecurity-image-1000x500-1.jpeg"> -->
 <br/> <br/> <br/> 
 
 
