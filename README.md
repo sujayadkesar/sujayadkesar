@@ -21,14 +21,7 @@
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" style="padding-left:40px;" src="https://github-readme-streak-stats.herokuapp.com/?user=sujayadkesar&row=2&column=3" alt="sujayadkesar"/></p>
 
 <br/> <br/> <br/> 
-<p aligh="left"><a href="https://tryhackme.com/p/SUJAYADKESAR">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/SUJAYADKESAR.png" alt="tryhackme-badge" style="width: 200px; border-radius: 20px;">
-</a></p>
 
-<!-- <br><br> -->
-<p aligh="right"> <a href="https://app.hackthebox.com/profile/979961">
-  <img src="https://www.hackthebox.eu/badge/image/979961" width="450px" height="200" alt="Hack The Box">
-</a></p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -37,6 +30,16 @@
 <a href="https://www.instagram.com/sujay_adkesar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sujay_adkesar" height="30" width="40" /></a>
  <a href="https://twitter.com/SUJAY_ADKESAR" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sujay_adkesar" height="30" width="40" /></a>
 </p>
+<br><br><br>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <a href="https://tryhackme.com/p/SUJAYADKESAR">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/SUJAYADKESAR.png" alt="tryhackme-badge" style="width: 400px; height:100px; border-radius: 10px;">
+  </a>
+
+  <a href="https://app.hackthebox.com/profile/979961">
+    <img src="https://www.hackthebox.eu/badge/image/979961" width="650px" height="200" alt="Hack The Box">
+  </a>
+</div>
 
 
  
