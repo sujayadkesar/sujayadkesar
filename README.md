@@ -47,7 +47,7 @@
 
 &nbsp;
 &nbsp;
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sujayadkesar&row=2&column=3" alt="sujayadkesar" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sujayadkesar&row=2&column=3" alt="sujayadkesar" /></p>
 
 
 <!-- 
