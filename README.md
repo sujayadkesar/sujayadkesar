@@ -54,7 +54,7 @@
 <br><br>
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <a href="https://tryhackme.com/p/SUJAYADKESAR">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/SUJAYADKESAR.png" alt="tryhackme-badge" style="width: 300px; height:100px; border-radius: 10px;">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/SUJAYADKESAR.png" alt="tryhackme-badge" style="width: 325px; height:100px; border-radius: 10px;">
   </a>
 
   <a href="https://app.hackthebox.com/profile/979961">
