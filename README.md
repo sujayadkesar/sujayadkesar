@@ -23,7 +23,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sujayadkesar" alt="sujayadkesar" /></a> </p>
 
-<br/> <br/> <br/> <br/> <br/>
+<br/> <br/> <br/> 
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -47,4 +47,52 @@
 
 &nbsp;
 &nbsp;
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sujayadkesar&row=2&column=3" alt="sujayadkesar" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sujayadkesar&row=2&column=3" alt="sujayadkesar" /></p>
+
+
+<!-- 
+
+
+Here's an example of a GitHub action workflow that uses the GitHub API to update the README.md file with the title and link of the latest blog post from your personal website:
+
+bash
+Copy code
+name: Update README.md
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Every day at midnight
+
+jobs:
+  update_readme:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Fetch latest blog post
+      run: |
+        latest_blog_post=$(curl -s https://yourpersonalwebsite.com/feed.xml | grep -m1 '<title>' | sed -e 's/<title>//' -e 's/<\/title>//')
+        latest_blog_post_link=$(curl -s https://yourpersonalwebsite.com/feed.xml | grep -m1 '<link>' | sed -e 's/<link>//' -e 's/<\/link>//')
+        echo "::set-output name=latest_blog_post::$latest_blog_post"
+        echo "::set-output name=latest_blog_post_link::$latest_blog_post_link"
+
+    - name: Update README.md
+      run: |
+        latest_blog_post="${{ steps.fetch_latest_blog_post.outputs.latest_blog_post }}"
+        latest_blog_post_link="${{ steps.fetch_latest_blog_post.outputs.latest_blog_post_link }}"
+        sed -i "s|Latest blog post:.*|Latest blog post: [$latest_blog_post]($latest_blog_post_link)|" README.md
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "GitHub Actions"
+        git add README.md
+        git commit -m "Update README.md with latest blog post"
+        git push origin main
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+You can also customize this action to your needs and change the schedule to your liking.
+
+Please note that this is a basic example, you should adapt it to your specific case, also you should check your website endpoint and format, this example uses RSS feed and XML format.
+
+Also, take into account that using the Github API will require a token to authenticate and perform the changes, this token is stored as a secret, so it will not be visible to anyone. -->
