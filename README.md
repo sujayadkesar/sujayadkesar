@@ -31,21 +31,13 @@
  <a href="https://twitter.com/SUJAY_ADKESAR" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sujay_adkesar" height="30" width="40" /></a>
 </p>
 <br><br><br>
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <a href="https://tryhackme.com/p/SUJAYADKESAR">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/SUJAYADKESAR.png" alt="tryhackme-badge" style="width: 400px; height:100px; border-radius: 10px;">
-  </a>
 
-  <a href="https://app.hackthebox.com/profile/979961">
-    <img src="https://www.hackthebox.eu/badge/image/979961" width="650px" height="200" alt="Hack The Box">
-  </a>
-</div>
 
 
  
 
 
-&nbsp;
+
 &nbsp;
 <br>
 
@@ -56,9 +48,18 @@
 &nbsp;
 &nbsp;
 
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <a href="https://tryhackme.com/p/SUJAYADKESAR">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/SUJAYADKESAR.png" alt="tryhackme-badge" style="width: 400px; height:100px; border-radius: 10px;">
+  </a>
 
+  <a href="https://app.hackthebox.com/profile/979961">
+    <img src="https://www.hackthebox.eu/badge/image/979961" width="650px" height="200" alt="Hack The Box">
+  </a>
+</div>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sujayadkesar&row=2&column=3" alt="sujayadkesar" /></a> </p>
+
 <!-- 
 
 
