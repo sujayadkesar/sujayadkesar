@@ -18,9 +18,7 @@
 <br/> <br/> <br/> 
 
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sujayadkesar&row=2&column=3" alt="sujayadkesar" /></p>
-
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" style="padding-left:40px;" src="https://github-readme-streak-stats.herokuapp.com/?user=sujayadkesar&row=2&column=3" alt="sujayadkesar"/></p>
 
 <br/> <br/> <br/> 
 
