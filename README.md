@@ -54,11 +54,11 @@
 <br><br>
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <a href="https://tryhackme.com/p/SUJAYADKESAR">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/SUJAYADKESAR.png" alt="tryhackme-badge" style="width: 450px; height:100px; border-radius: 10px;">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/SUJAYADKESAR.png" alt="tryhackme-badge" style="width: 475px; height:100px; border-radius: 10px;">
   </a>
 
   <a href="https://app.hackthebox.com/profile/979961">
-    <img src="https://www.hackthebox.eu/badge/image/979961" width="450px" height="100" alt="Hack The Box">
+    <img src="https://www.hackthebox.eu/badge/image/979961" width="475px" height="100" alt="Hack The Box">
   </a>
 </div>
 
