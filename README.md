@@ -33,4 +33,4 @@
 
 &nbsp;
 &nbsp;
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sujayadkesar&" alt="sujayadkesar" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sujayadkesar&row=2&col=3" alt="sujayadkesar" /></p>
