@@ -1,4 +1,5 @@
-<h1 align="center">01101000 01101001 There 👋, I'm SUJAY ADKESAR</h1> <br>
+<h1 align="center">01101000 01101001 There 👋, I'm <span style="color: #FEE715FF">SUJAY ADKESAR</span></h1> <br>
+
 <br>
 <img align="right" width="400px" style="padding-top:200px;" src="https://user-images.githubusercontent.com/95465072/215252020-1a5c052f-2cd3-4ca9-ba72-b8bb5a1eb9de.gif">
 
@@ -41,15 +42,15 @@
 <b>⚙️My GitHub Stats:</b>
 
 <p align="center"><img align="center"
-<a href="http://www.github.com/sujayadkesar"><img src="https://github-readme-stats.vercel.app/api?username=sujayadkesar&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=10b981&bg_color=000000&hide_border=true&show_icons=true" alt="sujayadkesar's GitHub stats" /></a>
+<a href="http://www.github.com/sujayadkesar"><img src="https://github-readme-stats.vercel.app/api?username=sujayadkesar&show_icons=true&hide=&count_private=true&title_color=d9ff00&text_color=ffffff&icon_color=10b981&bg_color=0c0c24&hide_border=true&show_icons=true" alt="sujayadkesar's GitHub stats" /></a>
 </p>
 
 <p align="center"><img align="center"
-<a href="http://www.github.com/sujayadkesar"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sujayadkesar&stroke=ffffff&background=000000&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/sujayadkesar"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sujayadkesar&stroke=ffffff&background=0c0c24&ring=ffbf00&fire=E25822&currStreakNum=ffffff&currStreakLabel=ffbf00&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 </p>
 
 <p align="center"><img align="center"
-<a href="http://www.github.com/sujayadkesar"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=sujayadkesar&bg_color=000000&color=ffffff&line=10b981&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=Sagar's%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/sujayadkesar"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=sujayadkesar&bg_color=949398FF&color=ffffff&line=ffffff&point=FFFFFFFF&area_color=000000FF&area=true&hide_border=true&custom_title=SUJAY's%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 </p>
 
 <p align="center"><img align="center"
