@@ -1,4 +1,4 @@
-<h1 align="center">01101000 01101001 There 👋, I'm <span style="color: #FEE715FF">SUJAY ADKESAR</span></h1> <br>
+<h1 align="center">01101000 01101001 There 👋, I'm <span style="color:FEE715FF">SUJAY ADKESAR</span></h1> <br>
 
 <br>
 <img align="right" width="400px" style="padding-top:200px;" src="https://user-images.githubusercontent.com/95465072/215252020-1a5c052f-2cd3-4ca9-ba72-b8bb5a1eb9de.gif">
