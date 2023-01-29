@@ -79,11 +79,11 @@
 src="https://img.shields.io/github/followers/sujayadkesar?logo=github&style=for-the-badge&color=a855f7&labelColor=000000" /></a>
 </p>
 
-<br><br><script src="https://tryhackme.com/badge/865133"></script>
+<br><br>
 <div style="display: flex; justify-content: space-between; align-items: center;">
-<!--   <a href="https://tryhackme.com/p/SUJAYADKESAR">
+  <a href="https://tryhackme.com/p/SUJAYADKESAR">
     <img src="https://tryhackme-badges.s3.amazonaws.com/SUJAYADKESAR.png" alt="tryhackme-badge" style="width: 325px; height:100px; border-radius: 10px;">
-  </a> -->
+  </a>
 
   <a href="https://app.hackthebox.com/profile/979961">
     <img src="https://www.hackthebox.eu/badge/image/979961" width="325px" height="100" alt="Hack The Box">
