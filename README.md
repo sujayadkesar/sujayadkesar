@@ -15,7 +15,7 @@
 📄 Know about my experiences [https://sujayadkesar.github.io/resume.html](https://sujayadkesar.github.io/resume.html)
 <br/> <br/> <br/>
 
-<!-- <img align="center" src="https://www.cepro.com/wp-content/uploads/2021/12/cybersecurity-image-1000x500-1.jpeg"> -->
+<img align="center" src="https://www.cepro.com/wp-content/uploads/2021/12/cybersecurity-image-1000x500-1.jpeg">
 
 
 
