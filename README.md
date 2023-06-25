@@ -10,9 +10,9 @@
 
 👨‍💻 Here's My portfolio site [https://sujayadkesar.live](https://sujayadkesar.live) & [terminal-styled](https://sujayadkesar.github.io/terminal_portfolio/)
 
-📝 I regularly write CTF walkthroughs on [https://sujayadkesar.github.io](https://sujayadkesar.github.io)
+📝 I regularly write CTF walkthroughs on [https://sujayadkesar.github.io](https://thelocalh0st.github.io)
 
-📄 Know about my experiences [https://sujayadkesar.github.io/resume.html](https://sujayadkesar.github.io/resume.html)
+📄 Know about my experiences [here!!](https://thelocalh0st.web.app)
 <br/> <br/> <br/>
 
 <!-- <img align="center" src="https://www.cepro.com/wp-content/uploads/2021/12/cybersecurity-image-1000x500-1.jpeg"> -->
