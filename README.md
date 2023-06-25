@@ -10,7 +10,7 @@
 
 👨‍💻 Here's My portfolio site [https://sujayadkesar.live](https://sujayadkesar.live) & [terminal-styled](https://sujayadkesar.github.io/terminal_portfolio/)
 
-📝 I regularly write CTF walkthroughs on [https://sujayadkesar.github.io](https://thelocalh0st.github.io)
+📝 I regularly write CTF walkthroughs on [https://thelocalh0st.github.io](https://thelocalh0st.github.io)
 
 📄 Know about my experiences [here!!](https://thelocalh0st.web.app)
 <br/> <br/> <br/>
