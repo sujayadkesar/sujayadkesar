@@ -3,7 +3,7 @@
 <br>
 <img align="right" width="400px" style="padding-top:200px;" src="https://user-images.githubusercontent.com/95465072/215252020-1a5c052f-2cd3-4ca9-ba72-b8bb5a1eb9de.gif">
 
-<h3 align="left">A Seasoned Web application penetration tester👨‍🏫 | CTF Player | Threat Intelligence🧠 | Cybersecurity | Penetration testing 💻| Hobby Front-End. Thursty to learn and explore new technologies and share the knowledge back to the community⚛️.</h3>
+<h3 align="left">Digital Forensics & Incident Response | CTF Player | Threat Intelligence🧠 | Cybersecurity 💻| Thursty to learn and explore new technologies and share the knowledge back to the community⚛️.</h3>
 <br/> <br/> 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sujayadkesar&label=Profile%20views&color=0e75b6&style=flat" alt="sujayadkesar" /> </p>
