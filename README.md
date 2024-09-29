@@ -8,11 +8,8 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sujayadkesar&label=Profile%20views&color=0e75b6&style=flat" alt="sujayadkesar" /> </p>
 
-👨‍💻 Here's My portfolio site [https://sujayadkesar.live](https://sujayadkesar.live) & [terminal-styled](https://sujayadkesar.github.io/terminal_portfolio/)
 
 📝 I regularly write CTF walkthroughs on [https://thelocalh0st.github.io](https://thelocalh0st.github.io)
-
-📄 Know about my experiences [here!!](https://thelocalh0st.web.app)
 <br/> <br/> <br/>
 
 <!-- <img align="center" src="https://www.cepro.com/wp-content/uploads/2021/12/cybersecurity-image-1000x500-1.jpeg"> -->
