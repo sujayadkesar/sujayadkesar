@@ -45,13 +45,7 @@
 <a href="http://www.github.com/sujayadkesar"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sujayadkesar&stroke=ffffff&background=0c0c24&ring=ffbf00&fire=E25822&currStreakNum=ffffff&currStreakLabel=ffbf00&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 </p>
 
-<p align="center"><img align="center"
-<a href="http://www.github.com/sujayadkesar"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=sujayadkesar&bg_color=949398FF&color=ffffff&line=ffffff&point=FFFFFFFF&area_color=000000FF&area=true&hide_border=true&custom_title=SUJAY's%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-</p>
 
-<p align="center"><img align="center"
-<a href="https://github.com/sujayadkesar" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujayadkesar&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=10b981&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-</p>
 
 <b>🧑‍💻Top Repositories</b>
 
