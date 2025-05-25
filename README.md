@@ -24,22 +24,21 @@
  <a href="https://twitter.com/SUJAY_ADKESAR" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sujay_adkesar" height="30" width="40" /></a>
 </p>
 <br><br><br>
-
 <h3 align="center">Digital Forensics Tools</h3>
 <p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <img src="https://github.com/user-attachments/assets/01ead149-07ea-4eb2-8312-f5833133c9fa" alt="Ufade" height="60" style="vertical-align: middle;"/>
-  <img src="https://github.com/user-attachments/assets/ef6eae93-522c-414c-bb54-aab7483414e8" alt="Tableau" height="60" style="vertical-align: middle;"/>
-  <img src="https://github.com/user-attachments/assets/e0f606db-d22f-4025-af09-4482c2dad301" alt="Inspector" height="60" style="vertical-align: middle;"/>
-  <img src="https://github.com/user-attachments/assets/d156550d-e406-435a-8a8c-d7d17721e4f4" alt="FTK" height="60" style="vertical-align: middle;"/>
-  <img src="https://github.com/user-attachments/assets/dad07c0a-72a8-431f-941b-3b9bf9573f61" alt="Falcon" height="60" style="vertical-align: middle;"/>
-  <img src="https://github.com/user-attachments/assets/ab259edd-0cef-4af1-ba36-7ae2ce5d55ae" alt="Eric Zimmerman's Tools" height="60" style="vertical-align: middle;"/>
-  <img src="https://github.com/user-attachments/assets/9e981e2e-b0cb-486d-9907-1f598870b5f6" alt="EnCase" height="60" style="vertical-align: middle;"/>
-  <img src="https://github.com/user-attachments/assets/82ea7a47-3409-43f3-b0d8-fa24890d70e8" alt="Digital Collector" height="60" style="vertical-align: middle;"/>
-  <img src="https://github.com/user-attachments/assets/3edc47ab-e508-4acc-b7ec-e19b1e0b7f65" alt="Cellebrite" height="60" style="vertical-align: middle;"/>
-  <img src="https://github.com/user-attachments/assets/c9e2f504-3be6-456f-8533-cb3ad5b7cf89" alt="Cado" height="60" style="vertical-align: middle;"/>
-  <img src="https://github.com/user-attachments/assets/9a19d179-428a-47e3-b438-98f68af9f619" alt="Belkasoft" height="60" style="vertical-align: middle;"/>
-  <img src="https://github.com/user-attachments/assets/c94861c7-a518-4939-86b6-6e25b2b4042f" alt="Magnet AXIOM" height="60" style="vertical-align: middle;"/>
-  <img src="https://github.com/user-attachments/assets/f2732071-934e-4cba-b873-bc790006398b" alt="Autopsy" height="60" style="vertical-align: middle;"/>
+  <img src="https://github.com/user-attachments/assets/01ead149-07ea-4eb2-8312-f5833133c9fa" alt="Ufade" height="100" style="vertical-align: middle;" />
+  <img src="https://github.com/user-attachments/assets/ef6eae93-522c-414c-bb54-aab7483414e8" alt="Tableau" height="100" style="vertical-align: middle;" />
+  <img src="https://github.com/user-attachments/assets/e0f606db-d22f-4025-af09-4482c2dad301" alt="Inspector" height="100" style="vertical-align: middle;" />
+  <img src="https://github.com/user-attachments/assets/d156550d-e406-435a-8a8c-d7d17721e4f4" alt="FTK" height="100" style="vertical-align: middle;" />
+  <img src="https://github.com/user-attachments/assets/dad07c0a-72a8-431f-941b-3b9bf9573f61" alt="Falcon" height="100" style="vertical-align: middle;" />
+  <img src="https://github.com/user-attachments/assets/ab259edd-0cef-4af1-ba36-7ae2ce5d55ae" alt="Eric Zimmerman" height="100" style="vertical-align: middle;" />
+  <img src="https://github.com/user-attachments/assets/9e981e2e-b0cb-486d-9907-1f598870b5f6" alt="EnCase" height="100" style="vertical-align: middle;" />
+  <img src="https://github.com/user-attachments/assets/82ea7a47-3409-43f3-b0d8-fa24890d70e8" alt="Digital Collector" height="100" style="vertical-align: middle;" />
+  <img src="https://github.com/user-attachments/assets/3edc47ab-e508-4acc-b7ec-e19b1e0b7f65" alt="Cellebrite" height="100" style="vertical-align: middle;" />
+  <img src="https://github.com/user-attachments/assets/c9e2f504-3be6-456f-8533-cb3ad5b7cf89" alt="Cado" height="100" style="vertical-align: middle;" />
+  <img src="https://github.com/user-attachments/assets/9a19d179-428a-47e3-b438-98f68af9f619" alt="Belkasoft" height="100" style="vertical-align: middle;" />
+  <img src="https://github.com/user-attachments/assets/c94861c7-a518-4939-86b6-6e25b2b4042f" alt="Magnet AXIOM" height="100" style="vertical-align: middle;" />
+  <img src="https://github.com/user-attachments/assets/f2732071-934e-4cba-b873-bc790006398b" alt="Autopsy" height="100" style="vertical-align: middle;" />
 </p>
 
 
