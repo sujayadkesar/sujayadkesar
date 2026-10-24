@@ -131,7 +131,8 @@ def main() -> None:
         repos = fetch_repos(login)
         own = {n: r for n, r in repos.items() if not r["fork"]}
         top = max(own.items(), key=lambda kv: kv[1]["stars"])
-        latest = max(own.items(), key=lambda kv: kv[1]["pushed"])
+        # The profile repo is pushed by this workflow every day, so it never counts as "latest".
+        latest = max(((k, v) for k, v in own.items() if k != login), key=lambda kv: kv[1]["pushed"])
         new["repos"] = repos
         new["totals"] = {"original_repos": len(own), "stars_original": sum(r["stars"] for r in own.values())}
         new["top_repo"] = {"name": top[0], "stars": top[1]["stars"]}
