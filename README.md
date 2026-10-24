@@ -74,7 +74,11 @@
 <!-- NOTES:START -->
 | Date | Field note |
 |:--|:--|
-| — | [PhonePe iOS forensics — evidence extraction, correlation and UPI fraud investigation](https://thelocalh0st.com/posts/phonepe-forensics/) |
+| 2026-10-22 | [The Browser Kept a Receipt: Proving a Download Was the Same File with ETag](https://thelocalh0st.com/posts/etag-download-forensics/) |
+| 2026-10-17 | [Where Is This Access Point? Geolocating a WiFi BSSID, the Forensic Way](https://thelocalh0st.com/posts/wifi-geolocation-forensics/) |
+| 2026-10-16 | [Where Was This Laptop? Device Geolocation Hiding in WebCacheV01.dat](https://thelocalh0st.com/posts/webcache-geolocation/) |
+| 2026-07-17 | [Prefetch Alternate Data Stream How Malware Hides Execution](https://thelocalh0st.com/posts/guest-in-prefetch-directory/) |
+| 2026-04-28 | [PhonePe Forensics in iOS What Your iPhone Stores and How Investigators Read It](https://thelocalh0st.com/posts/phonepe-forensics/) |
 <!-- NOTES:END -->
 
 <br>
