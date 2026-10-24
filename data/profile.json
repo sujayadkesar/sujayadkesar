@@ -1,0 +1,121 @@
+{
+  "login": "sujayadkesar",
+  "name": "Sujay Adkesar",
+  "name_lines": ["SUJAY", "ADKESAR"],
+  "kicker": "Digital Forensics & Incident Response",
+  "role": "DFIR Analyst · Windows & mobile forensics · IR tooling",
+  "tagline": "I build open-source tools that automate the repetitive part of an examination — and trace every finding to the byte it came from.",
+  "casework_chips": ["WINDOWS", "iOS", "ANDROID", "IR", "AUTOMATION"],
+  "case_ref": "SA-2026-001",
+  "host": "127.0.0.1",
+
+  "links": [
+    {"id": "linkedin", "label": "LinkedIn", "handle": "sujay-adkesar", "url": "https://www.linkedin.com/in/sujay-adkesar-a90725224/", "icon": "linkedin"},
+    {"id": "blog", "label": "Blog", "handle": "thelocalh0st.com", "url": "https://thelocalh0st.com", "icon": "rss"},
+    {"id": "x", "label": "X", "handle": "@SUJAY_ADKESAR", "url": "https://x.com/SUJAY_ADKESAR", "icon": "x"},
+    {"id": "tryhackme", "label": "TryHackMe", "handle": "SUJAYADKESAR", "url": "https://tryhackme.com/p/SUJAYADKESAR", "icon": "tryhackme"},
+    {"id": "htb", "label": "Hack The Box", "handle": "979961", "url": "https://app.hackthebox.com/profile/979961", "icon": "hackthebox"}
+  ],
+
+  "sections": {
+    "profile": {"no": "01", "title": "Examiner profile", "sub": "What I examine, and how I work"},
+    "locker": {"no": "02", "title": "Evidence locker", "sub": "Open-source DFIR tools I build and maintain"},
+    "kit": {"no": "03", "title": "Field kit", "sub": "Artifacts my tools parse · the toolchain I work in"},
+    "log": {"no": "04", "title": "Case log", "sub": "Live from the GitHub API · refreshed daily"}
+  },
+
+  "casework": [
+    {"icon": "windows", "title": "Windows endpoints", "detail": "Registry, $MFT/USN, EVTX, Prefetch, Amcache, SRUM, VSS, RDP cache"},
+    {"icon": "phone", "title": "Mobile & connected devices", "detail": "iOS app extractions and the traces phones leave on computers"},
+    {"icon": "pulse", "title": "Incident response", "detail": "Triage at scale, super-timelines, intrusion and ransomware cases"},
+    {"icon": "flow", "title": "Examination automation", "detail": "Case-type pipelines that end in a court-ready, verifiable report"}
+  ],
+  "principles": [
+    {"title": "Read-only, always", "detail": "Evidence is copied and hashed before anything parses it."},
+    {"title": "Every fact has a source", "detail": "File, SHA-256 and an offset or row id you can find by hand."},
+    {"title": "Validated, not assumed", "detail": "Checked against published answer keys: NIST CFReDS, DFIR Madness."},
+    {"title": "Automate the routine", "detail": "The tool does the repetitive work. The examiner makes the call."}
+  ],
+
+  "exhibits": [
+    {
+      "letter": "A", "size": "large", "repo": "windows-forensic-automation",
+      "title": "Windows Forensic Automation",
+      "meta": "Python 3.11 · Windows · AGPL-3.0",
+      "desc": "Load a disk image, pick the type of case, and get answers, every parsed artifact and a court-ready report.",
+      "metrics": [["96", "artifact types"], ["9", "case profiles"], ["103/103", "validation checks"], ["3", "report formats"]],
+      "chips": ["E01 · Ex01 · RAW · VMDK · VHD(X)", "NIST CFReDS · DFIR Madness"],
+      "art": "verdicts"
+    },
+    {
+      "letter": "B", "size": "large", "repo": "connected-phone-forensics",
+      "title": "Connected Phone Forensics",
+      "meta": "Python · Windows · macOS · Linux · PyPI",
+      "desc": "Find every phone that was connected to a computer, what it left there, and exactly where each fact came from.",
+      "metrics": [["23", "parsers"], ["8", "connection types"], ["3", "host platforms"], ["SHA-256", "every file read"]],
+      "chips": ["pip install connected-phone-forensics", "KAPE · Velociraptor · UAC"],
+      "art": "devices"
+    },
+    {
+      "letter": "C", "size": "half", "repo": "PhonePe-Forensics",
+      "title": "PhonePe Forensics",
+      "meta": "Python · Flask · iOS",
+      "desc": "A local DFIR workstation for PhonePe iOS extractions: cross-database correlation, unified timeline and UPI fraud hunting.",
+      "chips": ["16 modules", "50+ SQLite DBs", "3 epochs → UTC"],
+      "art": "ppql"
+    },
+    {
+      "letter": "D", "size": "half", "repo": "vscexplorer",
+      "title": "VSCExplorer",
+      "meta": "Python · PyQt · libewf · libbde",
+      "desc": "Find, mount and browse Volume Shadow Copies inside E01 and RAW images — BitLocker-encrypted ones included.",
+      "art": "snapshots"
+    },
+    {
+      "letter": "E", "size": "half", "repo": "IR-Agent-Builder",
+      "title": "DFIR Agent Builder",
+      "meta": "Rust · egui · AWS S3 / KMS",
+      "desc": "A desktop wizard that compiles one self-contained Rust triage collector, ready to push to thousands of endpoints by GPO.",
+      "art": "pipeline"
+    },
+    {
+      "letter": "F", "size": "half", "repo": "Autopilot",
+      "title": "DFIR Autopilot",
+      "meta": "Python · PySide6 · Ollama",
+      "desc": "Extracts, parses and analyses Windows artifacts with pluggable agents and a local LLM, then writes the case report.",
+      "art": "agents"
+    }
+  ],
+
+  "more": [
+    {"repo": "FAEP", "what": "One-click artifact extraction and parsing from E01 images (RegRipper, EZ Tools, Hindsight)"},
+    {"repo": "RDP-BitmapCache_Parser", "what": "Rebuilds on-screen imagery from RDP bitmap cache files"},
+    {"repo": "ForensicVault", "what": "Rapid artifact acquisition from a USB drive"},
+    {"repo": "cybersecurity-resources", "what": "Curated cybersecurity learning resources"},
+    {"repo": "Linux-Privilege-Escalation", "what": "Linux privilege escalation, from kernel exploits to cron jobs"},
+    {"repo": "web-dork", "what": "Google dorks for web-app recon and bug bounty"},
+    {"repo": "reverse-shell-generator", "what": "Reverse-shell payload generator"},
+    {"repo": "auto-rec0n", "what": "Automates the reconnaissance phase of a penetration test"}
+  ],
+
+  "artifacts": [
+    {"group": "Windows", "items": ["$MFT", "$UsnJrnl", "$LogFile", "$I30", "Registry hives", "Amcache", "Prefetch", "SRUM", "EVTX", "LNK", "USB history", "Shadow copies", "RDP bitmap cache", "pagefile · hiberfil"]},
+    {"group": "Apple & mobile", "items": ["SQLite + WAL", "plists", "NSKeyedArchiver", "binary cookies", "WebKit", "iPhone pairing records", "iPhone backups"]},
+    {"group": "Cross-platform", "items": ["Browser history", "Bluetooth", "Wi-Fi hotspots", "Phone Link", "KDE Connect", "AirDrop"]}
+  ],
+  "toolchain": [
+    {"group": "Suites", "items": ["EnCase", "Magnet AXIOM", "Cellebrite", "Belkasoft", "FTK", "Autopsy", "Inspector"]},
+    {"group": "Acquisition", "items": ["Tableau", "Digital Collector", "UFADE"]},
+    {"group": "IR & triage", "items": ["CrowdStrike Falcon", "Cado", "KAPE", "Velociraptor"]},
+    {"group": "Open source", "items": ["EZ Tools", "RegRipper", "Hayabusa", "Chainsaw", "Hindsight", "iLEAPP", "mac_apt"]},
+    {"group": "Built with", "items": ["Python", "Rust", "Perl", "PySide6 · PyQt", "Flask", "egui", "SQLite"]}
+  ],
+
+  "blog": {
+    "url": "https://thelocalh0st.com",
+    "feeds": ["https://thelocalh0st.com/rss.xml", "https://thelocalh0st.com/feed.xml", "https://thelocalh0st.com/index.xml", "https://thelocalh0st.com/atom.xml", "https://thelocalh0st.com/feed"],
+    "fallback": [
+      {"title": "PhonePe iOS forensics — evidence extraction, correlation and UPI fraud investigation", "link": "https://thelocalh0st.com/posts/phonepe-forensics/", "date": ""}
+    ]
+  }
+}

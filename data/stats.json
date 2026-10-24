@@ -1,0 +1,245 @@
+{
+ "as_of": "2026-10-24",
+ "latest_push": {
+  "date": "2026-10-21",
+  "name": "connected-phone-forensics"
+ },
+ "repos": {
+  "Autopilot": {
+   "archived": false,
+   "fork": false,
+   "language": "Python",
+   "pushed": "2026-05-30",
+   "stars": 2
+  },
+  "FAEP": {
+   "archived": false,
+   "fork": false,
+   "language": "Perl",
+   "pushed": "2025-06-22",
+   "stars": 1
+  },
+  "ForensicVault": {
+   "archived": false,
+   "fork": false,
+   "language": "Batchfile",
+   "pushed": "2023-07-02",
+   "stars": 0
+  },
+  "IBM-Hyperledger-fabric": {
+   "archived": false,
+   "fork": false,
+   "language": "JavaScript",
+   "pushed": "2023-02-15",
+   "stars": 1
+  },
+  "IR-Agent-Builder": {
+   "archived": false,
+   "fork": false,
+   "language": "Rust",
+   "pushed": "2026-06-21",
+   "stars": 3
+  },
+  "Let-s-Exploit": {
+   "archived": false,
+   "fork": false,
+   "language": "HTML",
+   "pushed": "2023-06-07",
+   "stars": 3
+  },
+  "LinkHive": {
+   "archived": false,
+   "fork": false,
+   "language": "Python",
+   "pushed": "2023-01-27",
+   "stars": 3
+  },
+  "Linux-Privilege-Escalation": {
+   "archived": false,
+   "fork": false,
+   "language": "C",
+   "pushed": "2023-01-29",
+   "stars": 61
+  },
+  "PhonePe-Forensics": {
+   "archived": false,
+   "fork": false,
+   "language": "Python",
+   "pushed": "2026-08-10",
+   "stars": 11
+  },
+  "RDP-BitmapCache_Parser": {
+   "archived": false,
+   "fork": false,
+   "language": "Python",
+   "pushed": "2025-05-28",
+   "stars": 1
+  },
+  "URL-shortner": {
+   "archived": false,
+   "fork": false,
+   "language": "HTML",
+   "pushed": "2022-09-11",
+   "stars": 2
+  },
+  "auto-rec0n": {
+   "archived": false,
+   "fork": false,
+   "language": "Shell",
+   "pushed": "2023-03-31",
+   "stars": 9
+  },
+  "chatroom": {
+   "archived": false,
+   "fork": false,
+   "language": "Python",
+   "pushed": "2023-01-29",
+   "stars": 1
+  },
+  "connected-phone-forensics": {
+   "archived": false,
+   "fork": false,
+   "language": "Python",
+   "pushed": "2026-10-21",
+   "stars": 3
+  },
+  "control-ac-appliances": {
+   "archived": false,
+   "fork": false,
+   "language": "C++",
+   "pushed": "2023-03-02",
+   "stars": 1
+  },
+  "ctfd": {
+   "archived": false,
+   "fork": false,
+   "language": "",
+   "pushed": "2023-06-03",
+   "stars": 0
+  },
+  "cybersecurity-resources": {
+   "archived": false,
+   "fork": false,
+   "language": "",
+   "pushed": "2025-05-25",
+   "stars": 328
+  },
+  "dos-portfolio": {
+   "archived": false,
+   "fork": false,
+   "language": "HTML",
+   "pushed": "2023-05-18",
+   "stars": 1
+  },
+  "goshala-releases": {
+   "archived": false,
+   "fork": false,
+   "language": "",
+   "pushed": "2026-09-13",
+   "stars": 0
+  },
+  "govardhana": {
+   "archived": false,
+   "fork": false,
+   "language": "Astro",
+   "pushed": "2026-08-11",
+   "stars": 1
+  },
+  "hora-app": {
+   "archived": false,
+   "fork": false,
+   "language": "HTML",
+   "pushed": "2026-10-05",
+   "stars": 0
+  },
+  "krishiKhata": {
+   "archived": false,
+   "fork": false,
+   "language": "TypeScript",
+   "pushed": "2026-10-03",
+   "stars": 0
+  },
+  "pentesting-toolkit-on-docker": {
+   "archived": false,
+   "fork": false,
+   "language": "Dockerfile",
+   "pushed": "2023-02-16",
+   "stars": 2
+  },
+  "qr_code_generator": {
+   "archived": false,
+   "fork": false,
+   "language": "Python",
+   "pushed": "2022-10-28",
+   "stars": 2
+  },
+  "reverse-shell-generator": {
+   "archived": false,
+   "fork": false,
+   "language": "Python",
+   "pushed": "2024-07-16",
+   "stars": 7
+  },
+  "searchbar": {
+   "archived": false,
+   "fork": false,
+   "language": "HTML",
+   "pushed": "2023-01-27",
+   "stars": 4
+  },
+  "sujayadkesar": {
+   "archived": false,
+   "fork": false,
+   "language": "",
+   "pushed": "2025-08-20",
+   "stars": 4
+  },
+  "terminal_portfolio": {
+   "archived": false,
+   "fork": false,
+   "language": "JavaScript",
+   "pushed": "2023-01-27",
+   "stars": 9
+  },
+  "vscexplorer": {
+   "archived": false,
+   "fork": false,
+   "language": "Python",
+   "pushed": "2025-11-23",
+   "stars": 18
+  },
+  "web-dork": {
+   "archived": false,
+   "fork": false,
+   "language": "HTML",
+   "pushed": "2025-10-29",
+   "stars": 4
+  },
+  "web_spider": {
+   "archived": false,
+   "fork": false,
+   "language": "Python",
+   "pushed": "2022-11-05",
+   "stars": 2
+  },
+  "windows-forensic-automation": {
+   "archived": false,
+   "fork": false,
+   "language": "Python",
+   "pushed": "2026-10-07",
+   "stars": 2
+  }
+ },
+ "top_repo": {
+  "name": "cybersecurity-resources",
+  "stars": 328
+ },
+ "totals": {
+  "original_repos": 32,
+  "stars_original": 486
+ },
+ "user": {
+  "followers": 99,
+  "public_repos": 55
+ }
+}
