@@ -10,9 +10,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/sujay-adkesar-a90725224/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-linkedin-dark.svg"><img src="assets/link-linkedin-light.svg" height="36" alt="LinkedIn — sujay-adkesar"></picture></a>
   <a href="https://thelocalh0st.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-blog-dark.svg"><img src="assets/link-blog-light.svg" height="36" alt="Blog — thelocalh0st.com"></picture></a>
-  <a href="https://x.com/SUJAY_ADKESAR"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-x-dark.svg"><img src="assets/link-x-light.svg" height="36" alt="X — @SUJAY_ADKESAR"></picture></a>
-  <a href="https://tryhackme.com/p/SUJAYADKESAR"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-tryhackme-dark.svg"><img src="assets/link-tryhackme-light.svg" height="36" alt="TryHackMe — SUJAYADKESAR"></picture></a>
-  <a href="https://app.hackthebox.com/profile/979961"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-htb-dark.svg"><img src="assets/link-htb-light.svg" height="36" alt="Hack The Box — 979961"></picture></a>
 </p>
 
 <br>
