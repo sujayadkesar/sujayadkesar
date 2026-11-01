@@ -1,9 +1,8 @@
 {
- "as_of": "2026-10-31",
+ "as_of": "2026-11-01",
  "contributions": {
-  "total": 318,
+  "total": 322,
   "weeks": [
-   0,
    0,
    12,
    4,
@@ -54,7 +53,8 @@
    5,
    26,
    48,
-   2
+   5,
+   1
   ]
  },
  "latest_push": {
@@ -62,6 +62,16 @@
   "name": "connected-phone-forensics"
  },
  "posts": [
+  {
+   "date": "2026-10-31",
+   "link": "https://thelocalh0st.com/posts/windows-feature-update-evidence/",
+   "title": "The Upgrade Ate My Timeline: Windows Feature Update Forensics"
+  },
+  {
+   "date": "2026-10-31",
+   "link": "https://thelocalh0st.com/posts/ai-coding-agent-forensics/",
+   "title": "Did the Agent Do It? Incident Response for AI Coding Agents"
+  },
   {
    "date": "2026-10-23",
    "link": "https://thelocalh0st.com/posts/email-forensics-soc-playbook/",
@@ -76,16 +86,6 @@
    "date": "2026-10-17",
    "link": "https://thelocalh0st.com/posts/wifi-geolocation-forensics/",
    "title": "Where Is This Access Point? Geolocating a WiFi BSSID, the Forensic Way"
-  },
-  {
-   "date": "2026-10-16",
-   "link": "https://thelocalh0st.com/posts/webcache-geolocation/",
-   "title": "Where Was This Laptop? Device Geolocation Hiding in WebCacheV01.dat"
-  },
-  {
-   "date": "2026-07-17",
-   "link": "https://thelocalh0st.com/posts/guest-in-prefetch-directory/",
-   "title": "Prefetch Alternate Data Stream How Malware Hides Execution"
   }
  ],
  "repos": {
@@ -290,7 +290,7 @@
    "fork": false,
    "language": "",
    "pushed": "2025-05-25",
-   "stars": 327
+   "stars": 328
   },
   "defender-detectionhistory-parser": {
    "archived": false,
@@ -415,7 +415,7 @@
    "archived": false,
    "fork": false,
    "language": "Python",
-   "pushed": "2026-10-30",
+   "pushed": "2026-10-31",
    "stars": 4
   },
   "terminal_portfolio": {
@@ -477,11 +477,11 @@
  },
  "top_repo": {
   "name": "cybersecurity-resources",
-  "stars": 327
+  "stars": 328
  },
  "totals": {
   "original_repos": 32,
-  "stars_original": 485
+  "stars_original": 486
  },
  "user": {
   "followers": 97,

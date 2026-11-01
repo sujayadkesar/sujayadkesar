@@ -45,7 +45,7 @@
 | [**FAEP**](https://github.com/sujayadkesar/FAEP) | One-click artifact extraction and parsing from E01 images (RegRipper, EZ Tools, Hindsight) | 1 |
 | [**RDP-BitmapCache_Parser**](https://github.com/sujayadkesar/RDP-BitmapCache_Parser) | Rebuilds on-screen imagery from RDP bitmap cache files | 1 |
 | [**ForensicVault**](https://github.com/sujayadkesar/ForensicVault) | Rapid artifact acquisition from a USB drive | 0 |
-| [**cybersecurity-resources**](https://github.com/sujayadkesar/cybersecurity-resources) | Curated cybersecurity learning resources | 327 |
+| [**cybersecurity-resources**](https://github.com/sujayadkesar/cybersecurity-resources) | Curated cybersecurity learning resources | 328 |
 | [**Linux-Privilege-Escalation**](https://github.com/sujayadkesar/Linux-Privilege-Escalation) | Linux privilege escalation, from kernel exploits to cron jobs | 61 |
 | [**web-dork**](https://github.com/sujayadkesar/web-dork) | Google dorks for web-app recon and bug bounty | 4 |
 | [**reverse-shell-generator**](https://github.com/sujayadkesar/reverse-shell-generator) | Reverse-shell payload generator | 7 |
@@ -71,11 +71,11 @@
 <!-- NOTES:START -->
 | Date | Field note |
 |:--|:--|
+| 2026-10-31 | [The Upgrade Ate My Timeline: Windows Feature Update Forensics](https://thelocalh0st.com/posts/windows-feature-update-evidence/) |
+| 2026-10-31 | [Did the Agent Do It? Incident Response for AI Coding Agents](https://thelocalh0st.com/posts/ai-coding-agent-forensics/) |
 | 2026-10-23 | [One Reported Email, Two Payloads: A SOC Analyst's Email Forensics Playbook](https://thelocalh0st.com/posts/email-forensics-soc-playbook/) |
 | 2026-10-22 | [The Browser Kept a Receipt: Proving a Download Was the Same File with ETag](https://thelocalh0st.com/posts/etag-download-forensics/) |
 | 2026-10-17 | [Where Is This Access Point? Geolocating a WiFi BSSID, the Forensic Way](https://thelocalh0st.com/posts/wifi-geolocation-forensics/) |
-| 2026-10-16 | [Where Was This Laptop? Device Geolocation Hiding in WebCacheV01.dat](https://thelocalh0st.com/posts/webcache-geolocation/) |
-| 2026-07-17 | [Prefetch Alternate Data Stream How Malware Hides Execution](https://thelocalh0st.com/posts/guest-in-prefetch-directory/) |
 <!-- NOTES:END -->
 
 <br>
