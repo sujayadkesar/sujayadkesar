@@ -46,7 +46,7 @@
 | [**RDP-BitmapCache_Parser**](https://github.com/sujayadkesar/RDP-BitmapCache_Parser) | Rebuilds on-screen imagery from RDP bitmap cache files | 1 |
 | [**ForensicVault**](https://github.com/sujayadkesar/ForensicVault) | Rapid artifact acquisition from a USB drive | 0 |
 | [**cybersecurity-resources**](https://github.com/sujayadkesar/cybersecurity-resources) | Curated cybersecurity learning resources | 328 |
-| [**Linux-Privilege-Escalation**](https://github.com/sujayadkesar/Linux-Privilege-Escalation) | Linux privilege escalation, from kernel exploits to cron jobs | 61 |
+| [**Linux-Privilege-Escalation**](https://github.com/sujayadkesar/Linux-Privilege-Escalation) | Linux privilege escalation, from kernel exploits to cron jobs | 60 |
 | [**web-dork**](https://github.com/sujayadkesar/web-dork) | Google dorks for web-app recon and bug bounty | 4 |
 | [**reverse-shell-generator**](https://github.com/sujayadkesar/reverse-shell-generator) | Reverse-shell payload generator | 7 |
 | [**auto-rec0n**](https://github.com/sujayadkesar/auto-rec0n) | Automates the reconnaissance phase of a penetration test | 9 |
