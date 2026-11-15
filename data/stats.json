@@ -1,9 +1,8 @@
 {
- "as_of": "2026-11-14",
+ "as_of": "2026-11-15",
  "contributions": {
   "total": 323,
   "weeks": [
-   12,
    4,
    0,
    5,
@@ -54,6 +53,7 @@
    48,
    5,
    2,
+   0,
    0
   ]
  },
@@ -290,7 +290,7 @@
    "fork": false,
    "language": "",
    "pushed": "2025-05-25",
-   "stars": 328
+   "stars": 329
   },
   "defender-detectionhistory-parser": {
    "archived": false,
@@ -415,7 +415,7 @@
    "archived": false,
    "fork": false,
    "language": "Python",
-   "pushed": "2026-11-13",
+   "pushed": "2026-11-14",
    "stars": 4
   },
   "terminal_portfolio": {
@@ -477,14 +477,14 @@
  },
  "top_repo": {
   "name": "cybersecurity-resources",
-  "stars": 328
+  "stars": 329
  },
  "totals": {
   "original_repos": 32,
-  "stars_original": 485
+  "stars_original": 486
  },
  "user": {
-  "followers": 99,
+  "followers": 100,
   "public_repos": 55
  }
 }
