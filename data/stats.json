@@ -1,7 +1,7 @@
 {
- "as_of": "2026-11-24",
+ "as_of": "2026-11-25",
  "contributions": {
-  "total": 312,
+  "total": 313,
   "weeks": [
    0,
    5,
@@ -54,7 +54,7 @@
    2,
    0,
    0,
-   1
+   2
   ]
  },
  "latest_push": {
@@ -62,6 +62,11 @@
   "name": "vscexplorer"
  },
  "posts": [
+  {
+   "date": "2026-11-24",
+   "link": "https://thelocalh0st.com/posts/artex-detection-forensics/",
+   "title": "When ARTEX Knocks: Hunting an Open-Source AI Attack Framework in Your Logs"
+  },
   {
    "date": "2026-10-31",
    "link": "https://thelocalh0st.com/posts/windows-feature-update-evidence/",
@@ -81,11 +86,6 @@
    "date": "2026-10-22",
    "link": "https://thelocalh0st.com/posts/etag-download-forensics/",
    "title": "The Browser Kept a Receipt: Proving a Download Was the Same File with ETag"
-  },
-  {
-   "date": "2026-10-17",
-   "link": "https://thelocalh0st.com/posts/wifi-geolocation-forensics/",
-   "title": "Where Is This Access Point? Geolocating a WiFi BSSID, the Forensic Way"
   }
  ],
  "repos": {
@@ -422,7 +422,7 @@
    "archived": false,
    "fork": false,
    "language": "Python",
-   "pushed": "2026-11-23",
+   "pushed": "2026-11-24",
    "stars": 4
   },
   "terminal_portfolio": {
@@ -491,7 +491,7 @@
   "stars_original": 486
  },
  "user": {
-  "followers": 100,
+  "followers": 99,
   "public_repos": 56
  }
 }

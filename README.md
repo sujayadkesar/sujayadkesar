@@ -71,11 +71,11 @@
 <!-- NOTES:START -->
 | Date | Field note |
 |:--|:--|
+| 2026-11-24 | [When ARTEX Knocks: Hunting an Open-Source AI Attack Framework in Your Logs](https://thelocalh0st.com/posts/artex-detection-forensics/) |
 | 2026-10-31 | [The Upgrade Ate My Timeline: Windows Feature Update Forensics](https://thelocalh0st.com/posts/windows-feature-update-evidence/) |
 | 2026-10-31 | [Did the Agent Do It? Incident Response for AI Coding Agents](https://thelocalh0st.com/posts/ai-coding-agent-forensics/) |
 | 2026-10-23 | [One Reported Email, Two Payloads: A SOC Analyst's Email Forensics Playbook](https://thelocalh0st.com/posts/email-forensics-soc-playbook/) |
 | 2026-10-22 | [The Browser Kept a Receipt: Proving a Download Was the Same File with ETag](https://thelocalh0st.com/posts/etag-download-forensics/) |
-| 2026-10-17 | [Where Is This Access Point? Geolocating a WiFi BSSID, the Forensic Way](https://thelocalh0st.com/posts/wifi-geolocation-forensics/) |
 <!-- NOTES:END -->
 
 <br>
